@@ -1,0 +1,5 @@
+host=localhost
+database=virtualartgallery
+username=root
+password=root
+port=3306
